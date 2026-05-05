@@ -20,14 +20,24 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Tea Time
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A collection of artifacts that relate to tea in our culture
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "My collection focuses on my personal collection of tea and tea memorabilia. Exploring my
+English heritage as well as drinking iced tea as I was growing up led me to my interest in the
+history of tea. I became an avid tea drinker as an adult, and I love to experience different types
+of tea, especially when traveling overseas. I began to experiment with infusion methods,
+medicinal uses, and preservation techniques. I started a culinary and medicinal herb garden last
+year with tea plants in the center. The goal of my collection is three-fold. First, it is to show that
+a tea collection encompasses not only tea leaves, but items needed to make tea such as infusers
+and tableware such as teacups and saucers. Second, my goal is to show that tea is part of our
+national American heritage and has permeated popular culture. Lastly, tea has a ritual and
+spiritual component that has captured human imagination. For these reasons, my collection
+represents these elements to tell the story of tea in our culture."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Wendy Burkett
 
 ##########
 # COLLECTION SETTINGS
